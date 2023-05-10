@@ -91,7 +91,6 @@ pre p {
 }
 
 main > section > pre > p {
-  background-color: blue;
   font-size: 24px;
   color:blue;
   font-weight: bold;
