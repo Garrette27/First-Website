@@ -57,7 +57,11 @@ main {
 
 .blog-post h2 {
   margin-top: 0;
- color: black !important;
+ color: black;
+}
+
+.blog-post h2 a {
+  color: black;
 }
 
 .read-more {
