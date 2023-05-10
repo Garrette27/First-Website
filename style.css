@@ -57,6 +57,7 @@ main {
 
 .blog-post h2 {
   margin-top: 0;
+  color: black;
 }
 
 .read-more {
@@ -77,6 +78,4 @@ main {
   margin-bottom: 20px;
 }
 
-h2 {
-  color: black;
-}
+
