@@ -15,19 +15,21 @@ a {
 }
 header {
   background-color: white;
-  color: #fff;
+  color: black;
   padding: 20px;
   display: flex;
   align-items: center;
+  justify-content: flex-start; /* Indent to the left */
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px; /* Increase font size for better visibility */
 }
 
 header img {
   height: 100px;
   margin-right: 20px;
-}
-
-header h1 {
-  margin: 0;
 }
 
 nav ul {
