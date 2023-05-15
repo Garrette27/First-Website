@@ -14,6 +14,7 @@ body {
 .Write {
   width: 80%; /* Adjust the width as needed */
   margin: 0 auto; /* Center the text horizontally */
+    font-size: 3rem;
 }
 main h2 {
   color:white;
