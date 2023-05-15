@@ -16,10 +16,10 @@ h1 {
   color: white;
 }
 a {
-  color: white;
+  color: black;
 }
 header {
-  background-color: white;
+  background-color: black;
   color: white;
   padding: 20px;
   display: flex;
