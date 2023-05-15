@@ -99,6 +99,10 @@ pre p {
   font-weight: bold;
   font-size: 24px;
 }
+main h2 {
+  color: white;
+}
+  
 
 main > section > pre > p {
   font-size: 24px;
