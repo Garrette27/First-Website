@@ -16,11 +16,11 @@ h1 {
   color: white;
 }
 a {
-  color: black;
+  color: white;
 }
 header {
   background-color: white;
-  color: black;
+  color: white;
   padding: 20px;
   display: flex;
   align-items: center;
@@ -49,7 +49,7 @@ nav li {
 }
 
 nav a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -73,7 +73,7 @@ main {
 }
 
 .blog-post h2 a {
-  color: black;
+  color: white;
 
 }
 
