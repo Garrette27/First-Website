@@ -11,7 +11,10 @@ body {
   background-color: #000000; /* Fallback color if image fails to load */
   color: #ffffff; /* White text color */
 }
-
+.Write {
+  width: 80%; /* Adjust the width as needed */
+  margin: 0 auto; /* Center the text horizontally */
+}
 main h2 {
   color:white;
 }
